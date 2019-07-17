@@ -5,6 +5,7 @@ Op 20 juli 1969 zette Neil Armstrong de eerste stap op de maan. Dat is 50 jaar g
 Hiervoor heb je nodig:
 
 * Een computer waarop je Scratch 3 kunt draaien (online of offline)
+* Inloggegevens voor Scratch 3
 
 Er is al een begin voor je gemaakt, waarbij je een maanwagen en het maanoppervlakte cadeau krijgt. Deze vind je hier:
 [https://scratch.mit.edu/projects/293834812/editor/](https://scratch.mit.edu/projects/293834812/editor/)
