@@ -1,19 +1,17 @@
-Met behulp van deze Sushi gaan we met de Micro:bit een spelletje programmeren: **Meteors**.
+Op 20 juli 1969 zette Neil Armstrong de eerste stap op de maan. Dat is 50 jaar geleden! Deze gedenkwaardige gebeurtenis moeten we vieren! En hoe kan dat nu beter dan door zelf een maanlandings-spel te programeren. Dat gaan we in deze Scratch oefening doen!
+
+![](../assets/spel_screenshot.png)
 
 Hiervoor heb je nodig:
 
-* Een BBC Micro:bit
-* Een computer met internetverbinding
+* Een computer waarop je Scratch 3 kunt draaien (online of offline)
 
-Om de Micro:bit te kunnen programmeren, ga je naar een online editor:
+Er is al een begin voor je gemaakt, waarbij je een maanwagen en het maanoppervlakte cadeau krijgt. Deze vind je hier:
+[https://scratch.mit.edu/projects/293834812/editor/](https://scratch.mit.edu/projects/293834812/editor/)
 
-[https://makecode.microbit.org/](https://makecode.microbit.org/)
+Je moet misschien nog inloggen op Scratch om de link te kunnen openen.
 
-Op deze website kun je meteen aan de slag, je hoeft niet in te loggen.
+Sla het project bij jezelf op als ee Remix en je kunt aan de slag!
 
-De eerste keer dat je op deze website komt, is hij misschien in het Engels. Dit kun je veranderen in Nederlands. Hiervoor ga je  naar de `Instellingen` \(het tandwiel rechtsboven in het scherm\) en kies je `Language`en kun je vervolgens Nederlands kiezen.
-
-Nu zijn we klaar om te beginnen.
-
-![](../assets/MicroBit - startscherm.png)
+![](../assets/remix_knop.png)
 
