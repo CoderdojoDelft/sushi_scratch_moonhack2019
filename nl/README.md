@@ -12,7 +12,4 @@ Er is al een begin voor je gemaakt, waarbij je een maanwagen en het maanoppervla
 
 Je moet misschien nog inloggen op Scratch om de link te kunnen openen.
 
-Sla het project bij jezelf op als ee Remix en je kunt aan de slag!
-
-![](../assets/remix_knop.png)
-
+Sla het project bij jezelf op als een Remix ![](../assets/remix_knop.png) en je kunt aan de slag!
