@@ -24,7 +24,7 @@ We gaan code toevoegen waarmee je de oppervlakte _reset_ en waar in het midden w
 
 ---
 
-### **Uitdaging**
+### **Uitdaging: Maanwagen achteruit laten rijden**
 
 De maanwagen gaat nu alleen vooruit. Kun jij ervoor zorgen dat hij ook achteruit gaat?
 
